@@ -1,0 +1,6 @@
+{
+  "name": "最小生成树求解器 (Prim 算法)",
+  "description": "一个交互式的运筹学工具，用于构建无向图并通过 Prim 算法动态演示最小生成树的求解过程。支持节点拖动、缩放、逐步求解和自动求解。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
